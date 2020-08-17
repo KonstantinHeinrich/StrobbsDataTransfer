@@ -1,0 +1,2 @@
+rootProject.name='Strobbs Data Transfer'
+include ':app'
