@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Передача данных</string>
+    <string name="button_transfer_text">ПЕРЕДАТЬ ДАННЫЕ</string>
+    <string name="accept_text">ПОДТВЕРДИТЕ ПЕРЕДАЧУ ДАННЫХ</string>
+    <string name="button_yes_text">ДА</string>
+    <string name="button_no_text">НЕТ</string>
+    <string name="transferring_text">…ИДЕТ ПЕРЕДАЧА ДАННЫХ…</string>
+    <string name="button_settings_text">ПЕРЕЙТИ К НАСТРОЙКАМ</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="common_header">Общие</string>
+    <string name="connect_header">Подключение</string>
+    <string name="terminal_number_title">Номер терминала</string>
+    <string name="source_folder_title">Папка источник</string>
+    <string name="domain_title">Домен</string>
+    <string name="destination_folder_title">Папка назначения</string>
+    <string name="anonymous_title">Аноним</string>
+    <string name="username_title">Пользователь</string>
+    <string name="password_title">Пароль</string>
+</resources>
